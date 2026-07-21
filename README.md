@@ -1,5 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/O9tiiVKn)
-DSCI-552 Homework 5
-===================
+# Decision Trees, LASSO, and Boosting for Regression
 
-This is the template repository for DSCI-552 Homeworks. Please refer to Piazza for specific instructions on how to complete and submit your homework.
+Homework 5 for DSCI-552. Covers interpretable decision tree models on the Acute Inflammations dataset, and LASSO / gradient boosting regression on the Communities and Crime dataset.
+
+## Structure
+
+- `data/`: Acute Inflammations and Communities and Crime data files.
+- `notebook/`: Completed Jupyter notebook.
+- `requirements.txt`: Python packages used by the notebook.
+
+Run the notebook from the `notebook/` directory so the relative paths resolve to `../data`.
+
+## Author
+
+Sujendra Giri Prasad Bharadwaj
